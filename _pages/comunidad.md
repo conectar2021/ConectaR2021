@@ -5,7 +5,7 @@ layout: single
 
 **Comunidad de comunidades** 
 
->      R nos llama y ConectaR nos acerca 
+*R nos llama y ConectaR nos acerca*
 
 ¿Trabajás en uno o varios grupos de personas usuarias de R y querés llegar a más gente interesada? Enviá tu propuesta para ganar un espacio en nuestro evento ConectaR 2021. Podés hacer una propuesta para una iniciativa o para un grupo de iniciativas que compartan algo en común. 
 
