@@ -1,9 +1,9 @@
 ---
 permalink: /envios/
 layout: single
+title: Invitación para enviar propuestas
 ---
 
-## Invitación para enviar propuestas
 
 ¿Tenés una idea para hacer una presentación? El proceso es el siguiente:
 
