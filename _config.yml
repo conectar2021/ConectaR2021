@@ -101,7 +101,7 @@ author:
       url: "mailto:conectar@ucr.ac.cr"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/conecta_R
+      url: "https://twitter.com/conecta_R"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/conectar2021"
@@ -117,7 +117,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/conecta_R
+      url: "https://twitter.com/conecta_R"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/conectar2021"
