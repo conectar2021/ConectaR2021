@@ -1,5 +1,5 @@
 ---
-permalink: /comunidad/
+permalink: /comunidades/
 layout: single
 ---
 
