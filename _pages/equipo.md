@@ -2,6 +2,7 @@
 permalink: /equipo/
 layout: single
 title: Equipo organizador
+author_profile: true
 ---
 
 
