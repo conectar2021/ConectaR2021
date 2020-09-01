@@ -75,7 +75,7 @@ facebook:
   username               :conectar2021
   app_id                 :
   publisher              :
-og_image                 : https://pbs.twimg.com/profile_images/1280322256212811776/qKmJZsMy_400x400.jpg
+og_image                 : "https://pbs.twimg.com/profile_images/1280322256212811776/qKmJZsMy_400x400.jpg"
 social:
   type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
