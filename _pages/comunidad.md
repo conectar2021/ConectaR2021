@@ -1,9 +1,8 @@
 ---
 permalink: /comunidades/
 layout: single
+title: Comunidad de comunidades
 ---
-
-**Comunidad de comunidades** 
 
 *R nos llama y ConectaR nos acerca*
 
