@@ -10,3 +10,5 @@ main:
     url: /comunidades/
   - title: "Equipo"
     url: /equipo/
+  - title: "Código de conducta"
+    url: /code/
