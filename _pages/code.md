@@ -1,5 +1,5 @@
 ---
-permalink: /equipo/
+permalink: /code/
 layout: single
 ---
 
