@@ -1,6 +1,7 @@
 ---
 permalink: /equipo/
 layout: single
+title: Equipo organizador
 ---
 
 
