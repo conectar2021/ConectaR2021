@@ -19,4 +19,4 @@ Un espacio e infraestructura en nuestra agenda para organizar tu actividad
 
 Una propuesta de media página que describa tus objetivos para la reunión, y publicitar ConectaR entre tus contactos. Tendremos espacios limitados para propuestas, por lo que elegiremos las mejores.
 
-Llená el formulario aquí: https://forms.gle/XLvfbu54tvZSuU7H8 
+Llená el formulario aquí: [https://forms.gle/XLvfbu54tvZSuU7H8](https://forms.gle/XLvfbu54tvZSuU7H8 )
