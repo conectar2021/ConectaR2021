@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Noticias"
+    url: https://conectar2021.github.io/anuncios/
+  - title: "Acerca de"
+    url: https://conectar2021.github.io/anuncios/
+  - title: "Envíos de charlas"
+    url: /envios/
+  - title: "Comunidades"
+    url: /comunidades/
+  - title: "Equipo"
+    url: /equipo/
