@@ -1,5 +1,6 @@
 ---
 permalink: /equipo/
+layout: single
 ---
 
 
