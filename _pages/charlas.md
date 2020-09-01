@@ -1,5 +1,5 @@
 ---
-permalink: /charlas/
+permalink: /envios/
 layout: single
 ---
 
