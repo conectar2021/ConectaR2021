@@ -98,10 +98,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:conectar@ucr.ac.cr"
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:conectar@ucr.ac.cr"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/conecta_R
