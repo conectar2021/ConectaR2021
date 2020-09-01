@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Noticias"
-    url: https://conectar2021.github.io/anuncios/
-  - title: "Acerca de"
-    url: https://conectar2021.github.io/anuncios/
+ # - title: "Noticias"
+ #   url: /
+ # - title: "Acerca de"
+ #   url: https://conectar2021.github.io/anuncios/
   - title: "Envíos de charlas"
     url: /envios/
   - title: "Comunidades"
