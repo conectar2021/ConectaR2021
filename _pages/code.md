@@ -1,9 +1,9 @@
 ---
-permalink: /code/
+permalink: /equipo/
 layout: single
-title: Código de Conducta para la conferencia ConectaR2021
+title: Equipo organizador
+author_profile: true
 ---
-
 
 Este código de conducta es una intersección entre los principios UCR y el CdC de R Consortium
 
