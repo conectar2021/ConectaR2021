@@ -2,6 +2,7 @@
 permalink: /comunidades/
 layout: single
 title: Comunidad de comunidades
+author_profile: true
 ---
 
 *R nos llama y ConectaR nos acerca*
