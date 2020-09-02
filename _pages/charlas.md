@@ -2,6 +2,7 @@
 permalink: /envios/
 layout: single
 title: Invitación para enviar propuestas
+author_profile: true
 ---
 
 
