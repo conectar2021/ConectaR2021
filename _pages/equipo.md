@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-El comité organizador de ConectaR2021 está integrado por las siguientes personas. Si querés contactarnos con preguntas, sugerencias o inquietudes acerca de la conferencia podés hacerlo en conectar [at] ucr.ac.cr
+El comité organizador de ConectaR2021 está integrado por las siguientes personas. 
 
 ![](http://conectar2021.ucr.ac.cr/wp-content/uploads/2018/04/opcion_2-768x512.png)
 
