@@ -1,7 +1,7 @@
 ---
 permalink: /code/
 layout: single
-title: CoC
+title: Código de Conducta
 author_profile: true
 ---
 
