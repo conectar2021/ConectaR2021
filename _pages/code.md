@@ -1,7 +1,7 @@
 ---
-permalink: /equipo/
+permalink: /code/
 layout: single
-title: Equipo organizador
+title: CoC
 author_profile: true
 ---
 
