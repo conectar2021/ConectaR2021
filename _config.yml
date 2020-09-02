@@ -49,8 +49,8 @@ comments:
 reCaptcha:
   siteKey                :
   secret                 :
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+#atom_feed:
+#  path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -92,7 +92,7 @@ analytics:
 # Site Author
 author:
   name             : "ConectaR 2021"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://pbs.twimg.com/profile_images/1280322256212811776/qKmJZsMy_400x400.jpg"
   location         : "San José, Costa Rica"
   email            :
   links:
