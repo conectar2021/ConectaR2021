@@ -1,13 +1,11 @@
 # main links
 main:
- # - title: "Noticias"
- #   url: /
- # - title: "Acerca de"
- #   url: https://conectar2021.github.io/anuncios/
-  - title: "Envíos de charlas"
-    url: /envios/
-  - title: "Comunidades"
-    url: /comunidades/
+  - title: "Agenda"
+    url: /agenda/
+  - title: "Inscripciones"
+    url: /inscripciones/
+  - title: "Patrocinadores"
+    url: /patrocinadores/
   - title: "Equipo"
     url: /equipo/
   - title: "Código de conducta"
