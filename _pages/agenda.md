@@ -11,8 +11,8 @@ Contaremos con conferencias principales a cargo de:
 
 <table style="width:100%">
   <tr>
-    <td width="40%">  <p><img src="/Conectar2021/assets/images/keynote1-01.png" alt="" /></p> </td>
-    <td width="40%">  <p><img src="/Conectar2021/assets/images/keynote2-01.png" alt="" /></p> </td>
+    <td width="40%">  <p><img src="/ConectaR2021/assets/images/keynote1-01.png" alt="" /></p> </td>
+    <td width="40%">  <p><img src="/ConectaR2021/assets/images/keynote2-01.png" alt="" /></p> </td>
  </tr>
 </table>
 
