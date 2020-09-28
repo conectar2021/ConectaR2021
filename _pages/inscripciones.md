@@ -11,7 +11,7 @@ author_profile: true
 2. El comité organizador revisará las propuestas e invitará a las personas que tengan las mejores presentaciones con las respectivas instrucciones del formato.
 3. Hay dos modalidades: presentación de 20 minutos y carteles. 
 
-## ¿Trabajás en uno o varios grupos de personas usuarias de R y querés llegar a más gente interesada?** 
+## ¿Trabajás en uno o varios grupos de personas usuarias de R y querés llegar a más gente interesada?
 
 Enviá tu propuesta para ganar un espacio en nuestro evento ConectaR 2021. Podés hacer una propuesta para una iniciativa o para un grupo de iniciativas que compartan algo en común. El proceso es el siguiente:
 
