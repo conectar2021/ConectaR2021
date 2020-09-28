@@ -11,8 +11,8 @@ Contaremos con conferencias principales a cargo de:
 
 <table style="width:100%">
   <tr>
-    <th width="40%">  <p><img src="/assets/images/keynote1_01.png" alt="" /></p> </th>
-    <th width="40%">  <p><img src="/assets/images/keynote2_01.png" alt="" /></p> </th>
+    <td width="40%">  <p><img src="/assets/images/keynote1_01.png" alt="" /></p> </td>
+    <td width="40%">  <p><img src="/assets/images/keynote2_01.png" alt="" /></p> </td>
  </tr>
 </table>
 
