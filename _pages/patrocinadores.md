@@ -10,27 +10,27 @@ author_profile: true
 <p>Contactenos al correo: conectar@ucr.ac.cr para que le podamos informar de las oportunidades de patrocinar el evento</p>
 
 <table>
-  <tr> <td> Patrocinador 1 </td> <td> Patrocinador 2 </td>  <td> Patrocinador 3 </td> </tr>
-  <tr> <td> Patrocinador 4 </td> <td> Patrocinador 5 </td>  <td> Patrocinador 6 </td> </tr>
+  <tr> <td> </td> <td>  </td>  <td>  </td> </tr>
+  <tr> <td> </td> <td>  </td>  <td>  </td> </tr>
 </table>
   
 # Organizan   
 
 <table>
   <tr> <td>     <a href="https://www.ucr.ac.cr" class="partner-logo partner-link" itemprop="url" target="_blank">
-      <img src="/img/ucr.jpeg" alt="Universidad de Costa Rica" class="photo" itemprop="image">
+      <img src="https://www.conectar2019.org/img/ucr.jpeg" alt="Universidad de Costa Rica" class="photo" itemprop="image">
     </a> </td> <td> <a href="https://www.ixpantia.com" class="partner-logo partner-link" itemprop="url" target="_blank">
-      <img src="/img/ixpantia.png" alt="ixpantia" class="photo" itemprop="image">
-    </a> </td>  <td> Patrocinador 3 </td> </tr>
+      <img src="https://www.conectar2019.org/img/ixpantia.png" alt="ixpantia" class="photo" itemprop="image">
+    </a> </td>  <td>  </td> </tr>
 </table>
 
 # Con el apoyo de 
 
 <table>
   <tr> <td> <a href="https://http://www.estadistica.ucr.ac.cr" class="partner-logo partner-link" itemprop="url" target="_blank">
-      <img src="/img/EES-escuela-estadistica-horizontal.png" alt="Escuela de Estadística" class="photo" itemprop="image">
+      <img src="https://www.conectar2019.org/img/EES-escuela-estadistica-horizontal.png" alt="Escuela de Estadística" class="photo" itemprop="image">
     </a> </td> <td> <a href="http://www.odd.ucr.ac.cr" class="partner-logo partner-link" itemprop="url" target="_blank">
-      <img src="/img/logo_odd.png" alt="Observatorio de Desarrollo" class="photo" itemprop="image"> </td>  <td> Patrocinador 3 </td> </tr>
+      <img src="https://www.conectar2019.org/img/logo_odd.png" alt="Observatorio de Desarrollo" class="photo" itemprop="image"> </td>  <td>  </td> </tr>
 </table>
 
   
