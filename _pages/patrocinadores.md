@@ -9,10 +9,10 @@ author_profile: true
 
 <p>Contactenos al correo: conectar@ucr.ac.cr para que le podamos informar de las oportunidades de patrocinar el evento</p>
 
-<table>
+<!-- <table>
   <tr> <td> </td> <td>  </td>  <td>  </td> </tr>
   <tr> <td> </td> <td>  </td>  <td>  </td> </tr>
-</table>
+</table> -->
   
 # Organizan   
 
