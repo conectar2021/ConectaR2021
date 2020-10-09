@@ -33,7 +33,8 @@ author_profile: true
        <td> <a href="http://www.eap.ucr.ac.cr/" style="display: block;width: 150px;height: 150px;text-align: center;vertical-align: middle;line-height: 150px" itemprop="url" target="_blank">
       <img src="/ConectaR2021/assets/images/APublica.jpeg" alt="Escuela de Administración Pública" style="max-width: 100%;position: relative;top: -1px;"  itemprop="image"> </a>  </td> 
        <td> <a href="https://cicap.ucr.ac.cr/web/" style="display: block;width: 150px;height: 150px;text-align: center;vertical-align: middle;line-height: 150px" itemprop="url" target="_blank">
-      <img src="/ConectaR2021/assets/images/CICAP.png" alt="CICAP" style="max-width: 100%;position: relative;top: -1px;"  itemprop="image"> </a>  </td> </tr>
+      <img src="/ConectaR2021/assets/images/CICAP.png" alt="CICAP" style="max-width: 100%;position: relative;top: -1px;"  itemprop="image"> </a>  </td>
+  </tr>
 </table>
 
   
