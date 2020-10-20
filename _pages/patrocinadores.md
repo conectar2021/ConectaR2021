@@ -7,7 +7,7 @@ author_profile: true
 
 *Nuestros patrocinadores hacen posible gran parte del evento*
 
-<p>Contactenos al correo: conectar@ucr.ac.cr para que le podamos informar de las oportunidades de patrocinar el evento</p>
+<p>Contáctenos al correo: conectar@ucr.ac.cr para que le podamos informar de las oportunidades de patrocinar el evento</p>
 
 <table>
   <tr> <td>     <a href="https://www.rstudio.com" style="display: block;width: 150px;height: 150px;text-align: center;vertical-align: middle;line-height: 150px" itemprop="url" target="_blank">
@@ -16,6 +16,7 @@ author_profile: true
       <img src="https://www.conectar2019.org/img/GAP.png" alt="GAP Growth Acceleration Partners" style="max-width: 100%;position: relative;top: -1px;" itemprop="image"> </a> </td> <td>  </td> </tr>
 </table>
   
+
 # Organizan   
 
 <table>
