@@ -9,10 +9,12 @@ author_profile: true
 
 <p>Contactenos al correo: conectar@ucr.ac.cr para que le podamos informar de las oportunidades de patrocinar el evento</p>
 
-<!-- <table>
-  <tr> <td> </td> <td>  </td>  <td>  </td> </tr>
-  <tr> <td> </td> <td>  </td>  <td>  </td> </tr>
-</table> -->
+<table>
+  <tr> <td>     <a href="https://www.rstudio.com" style="display: block;width: 150px;height: 150px;text-align: center;vertical-align: middle;line-height: 150px" itemprop="url" target="_blank">
+      <img src="https://www.conectar2019.org/img/rstudio_logo.png" alt="RStudio" style="max-width: 100%;position: relative;top: -1px;" itemprop="image">
+    </a> </td> <td> <a href="https://www.growthaccelerationpartners.com" style="display: block;width: 150px;height: 150px;text-align: center;vertical-align: middle;line-height: 150px"  itemprop="url" target="_blank">
+      <img src="https://www.conectar2019.org/img/GAP.png" alt="GAP Growth Acceleration Partners" style="max-width: 100%;position: relative;top: -1px;" itemprop="image"> </a> </td> <td>  </td> </tr>
+</table>
   
 # Organizan   
 
