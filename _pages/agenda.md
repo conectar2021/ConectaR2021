@@ -21,6 +21,13 @@ Paula es Profesora de Estadística en Salud Pública en la Universidad de Cienci
 
 Florian es el co-fundador y CEO de InOrbit, la plataforma líder para la operación de robots a escala. Con más de 15 años de experiencia liderando productos en Silicon Valley, desde startups de Software-as-a-Service hasta empresas más conocidas como Facebook, Microsoft y Adobe, Florian tiene un enfoque basado en datos y centrado en el desarrollo de productos para resolver grandes problemas. En InOrbit, él es responsable de llevar a la realidad una visión ambiciosa: conectar a la gente, los robots y la inteligencia artificial para resolver algunos de los desafíos más grandes de la humanidad, desde la producción de alimentos y la provisión de servicios de manera sostenible hasta la democratización del acceso al trabajo a nivel global.
 
+**Mauro Lepore**
+
+*Software Developer 2DII*
+
+Mauro trabaja en 2 Degrees Investing Initiative construyendo paquetes de R, y fomentando el conocimiento y comunidad necesarios para que el trabajo de sus colegas sea más efectivo, reproducible, y divertido. Mauro estudió biología marina; hizo su licenciatura en Argentina, doctorado en Australia, y postdoctorado Panamá. Es autor o coautor de varios paquetes en CRAN, incluyendo  el paquete "datos" que traduce al español los datos del libro  R for Data Science. Además, es editor asociado de rOpenSci, y colabora con ixpantia y  DataLatam en Costa Rica.
+
+
 ## Charlas
 
 ¿Querés ser parte de este grupo de expositores y compartir tu trabajo? Podés encontrar info [aquí](https://conectar2021.github.io/ConectaR2021/inscripciones/).
