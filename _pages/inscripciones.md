@@ -41,15 +41,11 @@ El formulario de inscripción lo podés encontrar [aquí](https://forms.gle/a15u
 
 ### Costo de la inscripción:
 
-* Registro: USD 60 - registro antes de 28 de Enero.
-* Pre-registro: USD 40 - antes de 15 de Noviembre.
-* Becas: USD 20 - para solicitar una beca debe enviar una nota a conectar@ucr.ac.cr
+* Estandar : USD 35 - Preventa hasta el 8 de enero
+* Estudiante: USD 15 - Preventa hasta el 8 de enero. Para solicitar una beca de estudiante debe enviar una nota a conectar@ucr.ac.cr
 
-### PREGISTRO: 
-El costo de inscripción antes del 15/11/20 es de $40 USD para público en general. Además, participantes con condición de estudiantes, serán elegibles para becas de participación.
-
-### REGISTRO: 
-Después del 01/12/20, el costo será de $60 USD para público en general.
+* Estandar : USD 50 - Preventa después del 8 de enero
+* Estudiante: USD 20 - Preventa después del 8 de enero. Para solicitar una beca de estudiante debe enviar una nota a conectar@ucr.ac.cr
 
 ### Formas de pago:
 
