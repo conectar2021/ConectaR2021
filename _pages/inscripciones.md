@@ -1,16 +1,13 @@
 ---
 permalink: /inscripciones/
 layout: single
-title: Invitación para enviar propuestas
+title: ¿Cómo participar?
 author_profile: true
 ---
 
 
-## ¿Cómo participar?
-
 ### Inscripción de participantes:
 
-* 15/11/20 será la fecha límite para el pre-registro.
 * La inscripción en el mismo día de la conferencia está sujeta a cupo disponible.
 
 ### Costo de la inscripción:
