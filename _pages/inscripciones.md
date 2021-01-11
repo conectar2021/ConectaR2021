@@ -25,7 +25,7 @@ En un lapso de 24 horas recibirá un correo confirmando su inscripción.
 
 ### Instrucciones para el pago:
 
-* Por medio de Internet con tarjeta de crédito. Debe crear una cuenta en este sitio: https://conectar.fundacionucr.org/login.php para luego pagar con tarjeta.
+* Por medio de Internet con tarjeta de crédito. Debe crear una cuenta en este sitio: [https://conectar.fundacionucr.org/login.php](https://conectar.fundacionucr.org/login.php) para luego pagar con tarjeta.
 * Efectivo (en oficinas del Fundevi, UCR).
 * Transferencia bancaria:
   - Banco | Cuenta Corriente | Cuenta Cliente | Cuenta IBAN | Moneda
