@@ -8,7 +8,12 @@ author_profile: true
 
 ### Inscripción de participantes:
 
-* La inscripción en el mismo día de la conferencia está sujeta a cupo disponible.
+Para inscribirse los pasos son muy sencillos:
+
+1. Realizar el pago (instrucciones abajo).
+2. Escribir a conectar@ucr.ac.cr con el comprobante de pago, así como con sus datos personales: nombre, apellido, correo, comprobante y dirección.
+
+En un lapso de 24 horas recibirá un correo confirmando su inscripción.
 
 ### Costo de la inscripción:
 
@@ -18,9 +23,9 @@ author_profile: true
 * Estandar : USD 50 - Preventa después del 25 de enero
 * Estudiante: USD 20 - Preventa después del 25 de enero. Para solicitar una beca de estudiante debe enviar una nota a conectar@ucr.ac.cr
 
-### Formas de pago:
+### Instrucciones para el pago:
 
-* Por medio de Internet con tarjeta de crédito: Pago, si requiere ayuda con respecto al tema de Pago en línea, en el siguiente link encontrará un video tutorial acerca de como realizar el proceso, [Tutorial]().
+* Por medio de Internet con tarjeta de crédito. Debe crear una cuenta en este sitio: https://conectar.fundacionucr.org/login.php para luego pagar con tarjeta.
 * Efectivo (en oficinas del Fundevi, UCR).
 * Transferencia bancaria:
   - Banco | Cuenta Corriente | Cuenta Cliente | Cuenta IBAN | Moneda
@@ -28,4 +33,4 @@ author_profile: true
   - Banco de Costa Rica | 001-0245535-8 | 15201001024553580 | CR62015201001024553580 | Dólares
   - Banco Popular | 16101002710116532 | 16101002710116532 | CR32016101002710116532 | Dólares
   - Indicar: CONECTAR proyecto “3130-01“.
-* Transferencia bancaria Internacional: [Aquí]().
+
