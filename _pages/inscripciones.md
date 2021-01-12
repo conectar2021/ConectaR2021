@@ -17,8 +17,8 @@ En un lapso de 24 horas recibirá un correo confirmando su inscripción.
 
 ### Costo de la inscripción:
 
-* Estandar : USD 35 - Preventa hasta el 25 de enero
-* Estudiante: USD 15 - Preventa hasta el 25 de enero. Para solicitar una beca de estudiante debe enviar una nota a conectar@ucr.ac.cr
+* Estandar : USD 35 
+* Estudiante: USD 15 - Para solicitar una beca de estudiante debe enviar una nota a conectar@ucr.ac.cr
 
 ### Instrucciones para el pago:
 
