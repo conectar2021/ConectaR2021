@@ -20,9 +20,6 @@ En un lapso de 24 horas recibirá un correo confirmando su inscripción.
 * Estandar : USD 35 - Preventa hasta el 25 de enero
 * Estudiante: USD 15 - Preventa hasta el 25 de enero. Para solicitar una beca de estudiante debe enviar una nota a conectar@ucr.ac.cr
 
-* Estandar : USD 50 - Preventa después del 25 de enero
-* Estudiante: USD 20 - Preventa después del 25 de enero. Para solicitar una beca de estudiante debe enviar una nota a conectar@ucr.ac.cr
-
 ### Instrucciones para el pago:
 
 * Por medio de Internet con tarjeta de crédito. Debe crear una cuenta en este sitio: [https://conectar.fundacionucr.org/login.php](https://conectar.fundacionucr.org/login.php) para luego pagar con tarjeta.
