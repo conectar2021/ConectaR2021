@@ -183,7 +183,7 @@ author_profile: true
 </tr>
 <tr>
 <td>9:20</td>
-<td>Sesión 2 -Juan Alejandro Herrera López</td>
+<td>Sesión 1 -Juan Alejandro Herrera López</td>
 <td>Uso de R para fiscalización de compras públicas</td>
 </tr>
 <tr>
