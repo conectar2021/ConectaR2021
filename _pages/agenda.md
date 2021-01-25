@@ -38,11 +38,14 @@ Andrea Sánchez-Tapia es bióloga, colombiana, y trabaja como investigadora post
 
 ## Charlas
 
-¿Querés ser parte de este grupo de expositores y compartir tu trabajo? Podés encontrar info [aquí](https://conectar2021.github.io/ConectaR2021/inscripciones/).
 
 
 ## Comunidades
 
-Las comunidades de personas usuarias de R que estarán compartiendo su proyecto serán anunciadas proximamente. ¿Te interesa participar con tu grupo? Más info [aquí](https://conectar2021.github.io/ConectaR2021/inscripciones/).
+* [Comunidad de Desarrolladores de Software en Bioinformática (CDSB)](https://comunidadbioinfo.github.io/)
+* [R Ladies SJO](https://www.meetup.com/rladies-san-jose/)
+* [Data Latam](http://www.datalatam.com/)
+
+## Pósters
 
 
