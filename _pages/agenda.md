@@ -69,7 +69,7 @@ author_profile: true
 <td> </td>
 </tr>
 <tr>
-<td>12:00</td>
+<td>12:15</td>
 <td><a href="https://conectar2021.github.io/Contenido2021/#p%C3%B3sters">Pósters</a></td>
 <td> </td>
 </tr>
