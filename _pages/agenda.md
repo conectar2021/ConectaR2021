@@ -70,7 +70,7 @@ author_profile: true
 </tr>
 <tr>
 <td>12:00</td>
-<td>Pósters</td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#p%C3%B3sters">Pósters</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -307,66 +307,66 @@ author_profile: true
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th width="40%" title="Field #1">Nombre</th>
 <th width="40%" title="Field #2">Título</th>
-<th width="10%" title="Field #3">Sala</th>
+<th width="10%" title="Field #3">Hora</th>
 </tr></thead>
 <tbody><tr>
 <td>Philippe Heymans Smith </td>
 <td>chronicle: Reportería HTML sin fricción</td>
-<td align="right">1</td>
+<td align="right">11:24</td>
 </tr>
 <tr>
 <td>Eugenio Grant Mora</td>
 <td>Democratizando el uso de modelos de Machine Learning con Shiny</td>
-<td align="right">2</td>
+<td align="right">11:28</td>
 </tr>
 <tr>
 <td>Marta Cousido Rocha</td>
 <td>A new R package for the analysis of the fisheries population under uncertainty </td>
-<td align="right">3</td>
+<td align="right">11:32</td>
 </tr>
 <tr>
 <td>Luis Barboza-Barquero</td>
 <td>Análisis y visualización de datos del fenotipo de las semillas y germinación de un set de accesiones de la colección mundial de frijol mediante Rstudio</td>
-<td align="right">4</td>
+<td align="right">11:36</td>
 </tr>
 <tr>
 <td>Agustin Nieto </td>
 <td>Humanidades digitales con R</td>
-<td align="right">5</td>
+<td align="right">11:40</td>
 </tr>
 <tr>
 <td>Maikol Solís Chacón  </td>
 <td>Uso y experiencias de R-exams para Mediación Virtual en la UCR</td>
-<td align="right">6</td>
+<td align="right">11:44</td>
 </tr>
 <tr>
 <td>Eduardo Jimenez Gonzalez</td>
 <td>Ciudades Inteligentes</td>
-<td align="right">7</td>
+<td align="right">11:48</td>
 </tr>
 <tr>
 <td>Gustavo Céspedes Ramírez</td>
 <td>Búsqueda de jugadores con características de rendimiento similares en el fútbol centroamericano</td>
-<td align="right">8</td>
+<td align="right">11:52</td>
 </tr>
 <tr>
 <td>Jorge Mario Carrasco Ortiz</td>
 <td>Generación de reportes automáticos Mongo DB+Streamlit+R</td>
-<td align="right">9</td>
+<td align="right">11:56</td>
 </tr>
 <tr>
 <td>Miguel Francisco Benavides Acevedo</td>
 <td>Uso de R para elaborar y visualizar mapas de ligamiento genético, y mapeo de genes causales de una mutación en papaya</td>
-<td align="right">10</td>
+<td align="right">12:00</td>
 </tr>
  <tr>
 <td>Valery Zúñiga Kondrashov</td>
 <td>Resumen de datos. ¡Rápido! ****Título por re-definir****</td>
-<td align="right">11</td>
+<td align="right">12:04</td>
 </tr>
    <tr>
 <td>Leonardo Collado Torres</td>
 <td>biocthis: crea paquetes de R/Bioconductor</td>
-<td align="right">12</td>
+<td align="right">12:08</td>
 </tr>
 </tbody></table>
