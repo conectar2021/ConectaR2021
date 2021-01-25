@@ -19,9 +19,9 @@ author_profile: true
 <td> </td>
 </tr>
 <tr>
-<td>8:10</td>
-<td>Keynote - <a href="https://conectar2021.github.io/ConectaR2021/agenda/#keynotes">Paula Moraga</a></td>
-<td>Ciencia de datos geoespaciales para la vigilancia de la salud pública</td>
+<td>8:10</td> 
+<td>Keynote - <a href="https://twitter.com/Paula_Moraga_">Paula Moraga</a></td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#ciencia-de-datos-geoespaciales-para-la-vigilancia-de-la-salud-p%C3%BAblica---paula-moraga"> Ciencia de datos geoespaciales para la vigilancia de la salud pública</a></td>
 </tr>
 <tr>
 <td>8:40</td>
