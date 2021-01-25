@@ -377,7 +377,7 @@ Andrea Sánchez-Tapia es bióloga, colombiana, y trabaja como investigadora post
 </tr>
 <tr>
 <td>Eduardo Jimenez Gonzalez</td>
-<td>Ciudades Inteligentes (no dio abstracto)</td>
+<td>Ciudades Inteligentes</td>
 <td align="right">7</td>
 </tr>
 <tr>
@@ -387,7 +387,7 @@ Andrea Sánchez-Tapia es bióloga, colombiana, y trabaja como investigadora post
 </tr>
 <tr>
 <td>Jorge Mario Carrasco Ortiz</td>
-<td>Generación de reportes automáticos Mongo DB+Streamlit+R (es mucho Python)</td>
+<td>Generación de reportes automáticos Mongo DB+Streamlit+R</td>
 <td align="right">9</td>
 </tr>
 </tbody></table>
