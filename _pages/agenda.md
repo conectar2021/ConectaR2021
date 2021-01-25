@@ -361,7 +361,7 @@ author_profile: true
 </tr>
  <tr>
 <td>Valery Zúñiga Kondrashov</td>
-<td>Resumen de datos. ¡Rápido! ****Título por re-definir****</td>
+<td>Estadísticas de grupo rápidas: Cómo sacar el máximo provecho del paquete data.table</td>
 <td align="right">12:04</td>
 </tr>
    <tr>
