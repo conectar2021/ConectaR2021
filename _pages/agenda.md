@@ -8,14 +8,77 @@ author_profile: true
 
 Hora de Costa Rica (-6 GMT)
 
-<div class="ritz grid-container" dir="ltr"><table width="80%" class="waffle" cellspacing="0" cellpadding="0"><tbody><tr style='height:20px;'><th id="1314853789R0" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s0" dir="ltr" colspan="2"> <b> JUEVES 28 de Enero </b> </td><td class="s0" dir="ltr"> <b> Título </b></td></tr><tr style='height:20px;'><th id="1314853789R1" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:00</td><td class="s1" dir="ltr">Apertura del dia: Academia</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1314853789R2" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:10</td><td class="s1" dir="ltr">Keynote - Paula Moraga</td><td class="s1" dir="ltr">Ciencia de datos geoespaciales para la vigilancia de la salud pública</td></tr><tr style='height:20px;'><th id="1314853789R3" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:40</td><td class="s1" dir="ltr">Q&amp;A</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1314853789R4" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:50</td><td class="s1" dir="ltr">Sesion 1 - Erick Cuevas Fernández</td><td class="s1">SNPverso y demencia</td></tr><tr style='height:20px;'><th id="1314853789R5" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">9:20</td><td class="s1" dir="ltr">Sesion 1 - Angélica Arenas Rodríguez</td><td class="s1">R para conocer sobre biodiversidad desde GBIF.</td></tr><tr style='height:20px;'><th id="1314853789R6" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">9:50</td><td class="s1" dir="ltr">Q&amp;A - Sesión 1</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1314853789R7" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">10:00</td><td class="s1" dir="ltr">Pausa</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1314853789R8" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">10:10</td><td class="s1" dir="ltr">Sesión 2 - J. Antonio Guzmán Q.</td><td class="s1">rTLS: una herramienta en R para procesar y calcular métricas de nubes de puntos derivadas de sensores LiDAR terrestres.</td></tr><tr style='height:20px;'><th id="1314853789R9" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">10:40</td><td class="s1" dir="ltr">Sesión 2 - Angie Viviana Montañez Salinas</td><td class="s1">EnRedándonos con datos atípicos en análisis ecológicos </td></tr><tr style='height:20px;'><th id="1314853789R10" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">11:10</td><td class="s1" dir="ltr">Q&amp;A - Sesión 2</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1314853789R11" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">11:20</td><td class="s1" dir="ltr">Charlas relámpago</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1314853789R12" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">12:00</td><td class="s1" dir="ltr">Pósters</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1314853789R13" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">14:00</td><td class="s1" dir="ltr">Cierre del día</td><td class="s1"></td></tr></tbody></table></div>
-
-<div class="ritz grid-container" dir="ltr"><table width="80%" class="waffle" cellspacing="0" cellpadding="0"><tbody><tr style='height:20px;'><th id="1602679181R0" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s0" dir="ltr" colspan="2"> <b> VIERNES 29 de enero  </b></td><td class="s0" dir="ltr"> <b> Título </b></td></tr><tr style='height:20px;'><th id="1602679181R1" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:00</td><td class="s1" dir="ltr">Apertura del dia: Enseñanza</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1602679181R2" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:10</td><td class="s1" dir="ltr">Keynote - Mauro Lepore</td><td class="s1" dir="ltr">Cadena de favoRes</td></tr><tr style='height:20px;'><th id="1602679181R3" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:40</td><td class="s1" dir="ltr">Q&amp;A</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1602679181R4" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:50</td><td class="s1" dir="ltr">Sesion 1 - Cristina Soto Rojas; Mariana Cubero Corella; Carlos Gamboa-Venegas</td><td class="s1">Ya sabe programar en R, ¿y enseñarlo?</td></tr><tr style='height:20px;'><th id="1602679181R5" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">9:20</td><td class="s1" dir="ltr">Sesion 1 - Esteban Jose Ballestero Alfaro</td><td class="s1">Incorporando R como herramienta de análisis de datos en el curso de Estadística para estudiantes de Computación</td></tr><tr style='height:20px;'><th id="1602679181R6" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">9:50</td><td class="s1" dir="ltr">Q&amp;A - Sesión 1</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1602679181R7" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">10:00</td><td class="s1" dir="ltr">Pausa</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1602679181R8" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">10:10</td><td class="s1" dir="ltr">Sesión 2 - Estephani Jusep Rivera Jaramillo</td><td class="s1">Análisis de Sentimientos con Rstudio</td></tr><tr style='height:20px;'><th id="1602679181R9" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">10:40</td><td class="s1" dir="ltr">Sesión 2 - Ronny Alexander Hernández Mora</td><td class="s1">Lo que no enseñan en cursos de ciencia de datos: Una interpretación práctica de DataOps.</td></tr><tr style='height:20px;'><th id="1602679181R10" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">11:10</td><td class="s1" dir="ltr">Q&amp;A - Sesión 2</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1602679181R11" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">11:20</td><td class="s1" dir="ltr">Comunidad de Desarrolladores de Software en Bioinformática (CDSB)</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1602679181R12" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">12:00</td><td class="s1" dir="ltr">Comunidad de Desarrolladores de Software en Bioinformática (CDSB)</td><td class="s1"></td></tr><tr style='height:20px;'><th id="1602679181R13" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">14:00</td><td class="s1" dir="ltr">Cierre del día</td><td class="s1"></td></tr></tbody></table></div>
-
-<div class="ritz grid-container" dir="ltr"><table width="80%" class="waffle" cellspacing="0" cellpadding="0"><tbody><tr style='height:20px;'><th id="78754602R0" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s0" dir="ltr" colspan="2"><b> JUEVES 4 de febrero </b></td><td class="s0" dir="ltr"><b> Título </b></td></tr><tr style='height:20px;'><th id="78754602R1" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:00</td><td class="s2" dir="ltr">Apertura del dia: Ciencia Ciudadana</td><td class="s2"></td></tr><tr style='height:20px;'><th id="78754602R2" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:10</td><td class="s2" dir="ltr">Keynote - Andrea Sánchez-Tapia</td><td class="s2" dir="ltr">Observatorio COVID19-BR</td></tr><tr style='height:20px;'><th id="78754602R3" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:40</td><td class="s2" dir="ltr">Keynote questions</td><td class="s2"></td></tr><tr style='height:20px;'><th id="78754602R4" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:50</td><td class="s2" dir="ltr">Sesión 1 - Allan Martínez M.</td><td class="s2" dir="ltr">Geovisor del Sistema Nacional de Información Ambiental</td></tr><tr style='height:20px;'><th id="78754602R5" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">9:20</td><td class="s2" dir="ltr">Sesión 2 -Juan Alejandro Herrera López</td><td class="s2">Uso de R para fiscalización de compras públicas</td></tr><tr style='height:20px;'><th id="78754602R6" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">9:50</td><td class="s2" dir="ltr">Q&amp;A - Sesión 1</td><td class="s2"></td></tr><tr style='height:20px;'><th id="78754602R7" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">10:00</td><td class="s3" dir="ltr">Pausa</td><td class="s2"></td></tr><tr style='height:20px;'><th id="78754602R8" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">10:10</td><td class="s2" dir="ltr">Sesión 2 - Roberto Delgado Castro</td><td class="s2">Ciencia de datos aplicada a la gestión de control de las contribuciones sociales en la lucha contra la pobreza en Costa Rica</td></tr><tr style='height:20px;'><th id="78754602R9" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">10:40</td><td class="s2" dir="ltr">Sesión 2 - Mauricio Vargas</td><td class="s2" dir="ltr">Dittodb: un entorno de prueba para consultas a bases de datos </td></tr><tr style='height:20px;'><th id="78754602R10" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">11:10</td><td class="s2" dir="ltr">Q&amp;A - Sesión 2</td><td class="s2"></td></tr><tr style='height:20px;'><th id="78754602R11" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">11:20</td><td class="s2" dir="ltr">Rladies SJO</td><td class="s2" dir="ltr"></td></tr><tr style='height:20px;'><th id="78754602R12" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">12:00</td><td class="s2" dir="ltr">Rladies SJO</td><td class="s2"></td></tr><tr style='height:20px;'><th id="78754602R13" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">14:00</td><td class="s3" dir="ltr">Cierre del día</td><td class="s2"></td></tr></tbody></table></div>
-
-<div class="ritz grid-container" dir="ltr"><table width="80%" class="waffle" cellspacing="0" cellpadding="0"><tbody><tr style='height:20px;'><th id="682896870R0" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s0" dir="ltr" colspan="2"><b> VIERNES 5 de febrero </b> </td><td class="s0" dir="ltr"><b> Título </b></td></tr><tr style='height:20px;'><th id="682896870R1" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:00</td><td class="s2" dir="ltr">Apertura del dia: Industria</td><td class="s2"></td></tr><tr style='height:20px;'><th id="682896870R2" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:10</td><td class="s2" dir="ltr">Keynote - Florian Pestoni</td><td class="s2" dir="ltr">EmprendeR: notas sobre el uso de R en la dirección de una empresa de robótica</td></tr><tr style='height:20px;'><th id="682896870R3" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:40</td><td class="s2" dir="ltr">Keynote questions</td><td class="s2"></td></tr><tr style='height:20px;'><th id="682896870R4" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">8:50</td><td class="s2" dir="ltr">Sesión 1 - Gloria Edith Rodriguez Ramirez </td><td class="s2" dir="ltr">R y Google para <span style="font-style:italic;">digital marketing</span></td></tr><tr style='height:20px;'><th id="682896870R5" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">9:20</td><td class="s2" dir="ltr">Sesión 1 - David Barquero Álvarez</td><td class="s2">Gestión de consumo eléctrico en plantas de generación mediante R</td></tr><tr style='height:20px;'><th id="682896870R6" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">9:50</td><td class="s2" dir="ltr">Q&amp;A - Sesión 1</td><td class="s2"></td></tr><tr style='height:20px;'><th id="682896870R7" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">10:00</td><td class="s3" dir="ltr">Pausa</td><td class="s2"></td></tr><tr style='height:20px;'><th id="682896870R8" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">10:10</td><td class="s2" dir="ltr">Sesión 2 - Jhair Aldás</td><td class="s2">R en procesos Lean Six Sigma para industrias de manufactura latinoamericanas </td></tr><tr style='height:20px;'><th id="682896870R9" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">10:40</td><td class="s2" dir="ltr">Sesión 2 - Gustavo Céspedes Ramírez</td><td class="s2">Identificación de nombres de empresas en artículos de noticias: Aplicación de la técnica NER en lenguaje natural</td></tr><tr style='height:20px;'><th id="682896870R10" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">11:10</td><td class="s2" dir="ltr">Q&amp;A - Sesión 2</td><td class="s2"></td></tr><tr style='height:20px;'><th id="682896870R11" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">11:20</td><td class="s2" dir="ltr">DataLatam</td><td class="s2" dir="ltr"></td></tr><tr style='height:20px;'><th id="682896870R12" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">12:00</td><td class="s2" dir="ltr">DataLatam</td><td class="s2"></td></tr><tr style='height:20px;'><th id="682896870R13" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s1" dir="ltr">14:00</td><td class="s2" dir="ltr">CIERRE</td><td class="s2"></td></tr></tbody></table></div>
-
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Hora</th>
+<th title="Field #2">Sesión</th>
+<th title="Field #3">Título</th>
+</tr></thead>
+<tbody><tr>
+<td>8:00</td>
+<td>Apertura del dia: Academia</td>
+<td> </td>
+</tr>
+<tr>
+<td>8:10</td>
+<td>Keynote - Paula Moraga</td>
+<td>Ciencia de datos geoespaciales para la vigilancia de la salud pública</td>
+</tr>
+<tr>
+<td>8:40</td>
+<td>Q&amp;A</td>
+<td> </td>
+</tr>
+<tr>
+<td>8:50</td>
+<td>Sesion 1 - Erick Cuevas Fernández</td>
+<td>SNPverso y demencia</td>
+</tr>
+<tr>
+<td>9:20</td>
+<td>Sesion 1 - Angélica Arenas Rodríguez</td>
+<td>R para conocer sobre biodiversidad desde GBIF.</td>
+</tr>
+<tr>
+<td>9:50</td>
+<td>Q&amp;A - Sesión 1</td>
+<td> </td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>Pausa</td>
+<td> </td>
+</tr>
+<tr>
+<td>10:10</td>
+<td>Sesión 2 - J. Antonio Guzmán Q.</td>
+<td>rTLS: una herramienta en R para procesar y calcular métricas de nubes de puntos derivadas de sensores LiDAR terrestres.</td>
+</tr>
+<tr>
+<td>10:40</td>
+<td>Sesión 2 - Angie Viviana Montañez Salinas</td>
+<td>EnRedándonos con datos atípicos en análisis ecológicos </td>
+</tr>
+<tr>
+<td>11:10</td>
+<td>Q&amp;A - Sesión 2</td>
+<td> </td>
+</tr>
+<tr>
+<td>11:20</td>
+<td>Charlas relámpago</td>
+<td> </td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>Pósters</td>
+<td> </td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>Cierre del día</td>
+<td> </td>
+</tr>
+</tbody></table>
 
 ## Keynotes
 
@@ -55,10 +118,54 @@ Andrea Sánchez-Tapia es bióloga, colombiana, y trabaja como investigadora post
 
 ## Pósters
 
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link type="text/css" rel="stylesheet" href="resources/sheet.css" >
-<div class="ritz grid-container" dir="ltr"><table class="waffle" cellspacing="0" cellpadding="0">
-  <tbody><tr style='height:20px;'><th id="998229806R0" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s0" dir="ltr">Nombre</td><td class="s0" dir="ltr">Título</td><td class="s1" dir="ltr">Sala</td></tr><tr style='height:20px;'><th id="998229806R1" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s2" dir="ltr">Philippe Heymans Smith </td><td class="s2">chronicle: Reportería HTML sin fricción</td><td class="s3" dir="ltr">1</td></tr><tr style='height:20px;'><th id="998229806R2" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s2">Eugenio Grant Mora</td><td class="s2">Democratizando el uso de modelos de Machine Learning con Shiny</td><td class="s3" dir="ltr">2</td></tr><tr style='height:20px;'><th id="998229806R3" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s2">Marta Cousido Rocha</td><td class="s2" dir="ltr">A new R package for the analysis of the fisheries population under uncertainty </td><td class="s3" dir="ltr">3</td></tr><tr style='height:20px;'><th id="998229806R4" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s2">Luis Barboza-Barquero</td><td class="s2">Análisis y visualización de datos del fenotipo de las semillas y germinación de un set de accesiones de la colección mundial de frijol mediante Rstudio</td><td class="s3" dir="ltr">4</td></tr><tr style='height:20px;'><th id="998229806R5" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s2">Agustin Nieto </td><td class="s2">Humanidades digitales con R</td><td class="s3" dir="ltr">5</td></tr><tr style='height:20px;'><th id="998229806R6" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s2" dir="ltr">Maikol Solís Chacón  </td><td class="s2">Uso y experiencias de R-exams para Mediación Virtual en la UCR</td><td class="s3" dir="ltr">6</td></tr><tr style='height:20px;'><th id="998229806R7" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s2">Eduardo Jimenez Gonzalez</td><td class="s2">Ciudades Inteligentes</td><td class="s3" dir="ltr">7</td></tr><tr style='height:20px;'><th id="998229806R8" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s2">Gustavo Céspedes Ramírez</td><td class="s2">Búsqueda de jugadores con características de rendimiento similares en el fútbol centroamericano</td><td class="s3" dir="ltr">8</td></tr><tr style='height:20px;'><th id="998229806R9" style="height: 20px;" class="row-headers-background"><div class="row-header-wrapper" style="line-height: 20px;"></div></th><td class="s2">Jorge Mario Carrasco Ortiz</td><td class="s2">Generación de reportes automáticos Mongo DB+Streamlit+R (es mucho Python)</td><td class="s3" dir="ltr">9</td></tr></tbody></table></div>
-
-
-
- 
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Nombre</th>
+<th title="Field #2">Título</th>
+<th title="Field #3">Sala</th>
+</tr></thead>
+<tbody><tr>
+<td>Philippe Heymans Smith </td>
+<td>chronicle: Reportería HTML sin fricción</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Eugenio Grant Mora</td>
+<td>Democratizando el uso de modelos de Machine Learning con Shiny</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Marta Cousido Rocha</td>
+<td>A new R package for the analysis of the fisheries population under uncertainty </td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Luis Barboza-Barquero</td>
+<td>Análisis y visualización de datos del fenotipo de las semillas y germinación de un set de accesiones de la colección mundial de frijol mediante Rstudio</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>Agustin Nieto </td>
+<td>Humanidades digitales con R</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>Maikol Solís Chacón  </td>
+<td>Uso y experiencias de R-exams para Mediación Virtual en la UCR</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td>Eduardo Jimenez Gonzalez</td>
+<td>Ciudades Inteligentes (no dio abstracto)</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td>Gustavo Céspedes Ramírez</td>
+<td>Búsqueda de jugadores con características de rendimiento similares en el fútbol centroamericano</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td>Jorge Mario Carrasco Ortiz</td>
+<td>Generación de reportes automáticos Mongo DB+Streamlit+R (es mucho Python)</td>
+<td align="right">9</td>
+</tr>
+</tbody></table>
