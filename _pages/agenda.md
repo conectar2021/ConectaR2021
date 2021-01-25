@@ -9,9 +9,9 @@ author_profile: true
 ## Jueves 28 de enero - Hora de Costa Rica (-6 GMT)
 
 <table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Hora</th>
-<th title="Field #2">Sesión</th>
-<th title="Field #3">Título</th>
+<thead><tr><th  width="10%" title="Field #1">Hora</th>
+<th width="40%" title="Field #2">Sesión</th>
+<th width="40%" title="Field #3">Título</th>
 </tr></thead>
 <tbody><tr>
 <td>8:00</td>
@@ -83,9 +83,9 @@ author_profile: true
 ## Viernes 29 de enero - Hora de Costa Rica (-6 GMT)
 
 <table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Hora</th>
-<th title="Field #2">Sesión</th>
-<th title="Field #3">Título</th>
+<thead><tr><th width="10%" title="Field #1">Hora</th>
+<th width="40%" title="Field #2">Sesión</th>
+<th width="40%" title="Field #3">Título</th>
 </tr></thead>
 <tbody><tr>
 <td>8:00</td>
@@ -157,9 +157,9 @@ author_profile: true
 ## Jueves 4 de febrero - Hora de Costa Rica (-6 GMT)
 
 <table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Hora</th>
-<th title="Field #2">Sesión</th>
-<th title="Field #3">Título</th>
+<thead><tr><th width="10%" title="Field #1">Hora</th>
+<th width="40%" title="Field #2">Sesión</th>
+<th width="40%" title="Field #3">Título</th>
 </tr></thead>
 <tbody><tr>
 <td>8:00</td>
@@ -231,9 +231,9 @@ author_profile: true
 ## Viernes 5 de febrero - Hora de Costa Rica (-6 GMT)
 
 <table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Hora</th>
-<th title="Field #2">Sesión</th>
-<th title="Field #3">Título</th>
+<thead><tr><th width="10%" title="Field #1">Hora</th>
+<th width="40%" title="Field #2">Sesión</th>
+<th width="40%" title="Field #3">Título</th>
 </tr></thead>
 <tbody><tr>
 <td>8:00</td>
@@ -341,9 +341,9 @@ Andrea Sánchez-Tapia es bióloga, colombiana, y trabaja como investigadora post
 ## Pósters
 
 <table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Nombre</th>
-<th title="Field #2">Título</th>
-<th title="Field #3">Sala</th>
+<thead><tr><th width="40%" title="Field #1">Nombre</th>
+<th width="40%" title="Field #2">Título</th>
+<th width="10%" title="Field #3">Sala</th>
 </tr></thead>
 <tbody><tr>
 <td>Philippe Heymans Smith </td>
