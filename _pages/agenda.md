@@ -139,12 +139,12 @@ author_profile: true
 </tr>
 <tr>
 <td>11:20</td>
-<td><a href="https://conectar2021.github.io/ConectaR2021/agenda/#comunidades">Presentación Comunidades</a></td>
+<td> Presentación Comunidades</td>
 <td> </td>
 </tr>
 <tr>
 <td>12:00</td>
-<td>Comunidad de Desarrolladores de Software en Bioinformática (CDSB)</td>
+<td><a href="https://comunidadbioinfo.github.io/">Comunidad de Desarrolladores de Software en Bioinformática (CDSB)</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -213,12 +213,12 @@ author_profile: true
 </tr>
 <tr>
 <td>11:20</td>
-<td><a href="https://conectar2021.github.io/ConectaR2021/agenda/#comunidades">Presentación Comunidades</a></td>
+<td> Presentación Comunidades</td>
 <td> </td>
 </tr>
 <tr>
 <td>12:00</td>
-<td>Rladies SJO</td>
+<td><a href="https://www.meetup.com/rladies-san-jose/">Rladies SJO</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -287,12 +287,12 @@ author_profile: true
 </tr>
 <tr>
 <td>11:20</td>
-<td><a href="https://conectar2021.github.io/ConectaR2021/agenda/#comunidades">Presentación Comunidades</a></td>
+<td> Presentación Comunidades </td>
 <td> </td>
 </tr>
 <tr>
 <td>12:00</td>
-<td>DataLatam</td>
+<td><a href="http://www.datalatam.com/">DataLatam</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -301,12 +301,6 @@ author_profile: true
 <td> </td>
 </tr>
 </tbody></table>
-
-## Comunidades
-
-* [Comunidad de Desarrolladores de Software en Bioinformática (CDSB)](https://comunidadbioinfo.github.io/)
-* [R Ladies SJO](https://www.meetup.com/rladies-san-jose/)
-* [Data Latam](http://www.datalatam.com/)
 
 ## Pósters
 
