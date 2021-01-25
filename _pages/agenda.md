@@ -403,6 +403,6 @@ Andrea Sánchez-Tapia es bióloga, colombiana, y trabaja como investigadora post
    <tr>
 <td>Leonardo Collado Torres</td>
 <td>biocthis: crea paquetes de R/Bioconductor</td>
-<td align="right">11</td>
+<td align="right">12</td>
 </tr>
 </tbody></table>
