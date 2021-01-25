@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Hora de Costa Rica (-6 GMT)
+## Jueves 28 de enero - Hora de Costa Rica (-6 GMT)
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Hora</th>
@@ -76,6 +76,228 @@ Hora de Costa Rica (-6 GMT)
 <tr>
 <td>14:00</td>
 <td>Cierre del día</td>
+<td> </td>
+</tr>
+</tbody></table>
+
+## Viernes 29 de enero - Hora de Costa Rica (-6 GMT)
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Hora</th>
+<th title="Field #2">Sesión</th>
+<th title="Field #3">Título</th>
+</tr></thead>
+<tbody><tr>
+<td>8:00</td>
+<td>Apertura del dia: Enseñanza</td>
+<td> </td>
+</tr>
+<tr>
+<td>8:10</td>
+<td>Keynote - Mauro Lepore</td>
+<td>Cadena de favoRes</td>
+</tr>
+<tr>
+<td>8:40</td>
+<td>Q&amp;A</td>
+<td> </td>
+</tr>
+<tr>
+<td>8:50</td>
+<td>Sesion 1 - Cristina Soto Rojas; Mariana Cubero Corella; Carlos Gamboa-Venegas</td>
+<td>Ya sabe programar en R, ¿y enseñarlo?</td>
+</tr>
+<tr>
+<td>9:20</td>
+<td>Sesion 1 - Esteban Jose Ballestero Alfaro</td>
+<td>Incorporando R como herramienta de análisis de datos en el curso de Estadística para estudiantes de Computación</td>
+</tr>
+<tr>
+<td>9:50</td>
+<td>Q&amp;A - Sesión 1</td>
+<td> </td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>Pausa</td>
+<td> </td>
+</tr>
+<tr>
+<td>10:10</td>
+<td>Sesión 2 - Estephani Jusep Rivera Jaramillo</td>
+<td>Análisis de Sentimientos con Rstudio</td>
+</tr>
+<tr>
+<td>10:40</td>
+<td>Sesión 2 - Ronny Alexander Hernández Mora</td>
+<td>Lo que no enseñan en cursos de ciencia de datos: Una interpretación práctica de DataOps.</td>
+</tr>
+<tr>
+<td>11:10</td>
+<td>Q&amp;A - Sesión 2</td>
+<td> </td>
+</tr>
+<tr>
+<td>11:20</td>
+<td>Comunidad de Desarrolladores de Software en Bioinformática (CDSB)</td>
+<td> </td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>Comunidad de Desarrolladores de Software en Bioinformática (CDSB)</td>
+<td> </td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>Cierre del día</td>
+<td> </td>
+</tr>
+</tbody></table>
+
+## Jueves 4 de febrero - Hora de Costa Rica (-6 GMT)
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Hora</th>
+<th title="Field #2">Sesión</th>
+<th title="Field #3">Título</th>
+</tr></thead>
+<tbody><tr>
+<td>8:00</td>
+<td>Apertura del dia: Ciencia Ciudadana</td>
+<td> </td>
+</tr>
+<tr>
+<td>8:10</td>
+<td>Keynote - Andrea Sánchez-Tapia</td>
+<td>Observatorio COVID19-BR</td>
+</tr>
+<tr>
+<td>8:40</td>
+<td>Keynote questions</td>
+<td> </td>
+</tr>
+<tr>
+<td>8:50</td>
+<td>Sesión 1 - Allan Martínez M.</td>
+<td>Geovisor del Sistema Nacional de Información Ambiental</td>
+</tr>
+<tr>
+<td>9:20</td>
+<td>Sesión 2 -Juan Alejandro Herrera López</td>
+<td>Uso de R para fiscalización de compras públicas</td>
+</tr>
+<tr>
+<td>9:50</td>
+<td>Q&amp;A - Sesión 1</td>
+<td> </td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>Pausa</td>
+<td> </td>
+</tr>
+<tr>
+<td>10:10</td>
+<td>Sesión 2 - Roberto Delgado Castro</td>
+<td>Ciencia de datos aplicada a la gestión de control de las contribuciones sociales en la lucha contra la pobreza en Costa Rica</td>
+</tr>
+<tr>
+<td>10:40</td>
+<td>Sesión 2 - Mauricio Vargas</td>
+<td>Dittodb: un entorno de prueba para consultas a bases de datos </td>
+</tr>
+<tr>
+<td>11:10</td>
+<td>Q&amp;A - Sesión 2</td>
+<td> </td>
+</tr>
+<tr>
+<td>11:20</td>
+<td>Rladies SJO</td>
+<td> </td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>Rladies SJO</td>
+<td> </td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>Cierre del día</td>
+<td> </td>
+</tr>
+</tbody></table>
+
+## Viernes 5 de febrero - Hora de Costa Rica (-6 GMT)
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Hora</th>
+<th title="Field #2">Sesión</th>
+<th title="Field #3">Título</th>
+</tr></thead>
+<tbody><tr>
+<td>8:00</td>
+<td>Apertura del dia: Industria</td>
+<td> </td>
+</tr>
+<tr>
+<td>8:10</td>
+<td>Keynote - Florian Pestoni</td>
+<td>EmprendeR: notas sobre el uso de R en la dirección de una empresa de robótica</td>
+</tr>
+<tr>
+<td>8:40</td>
+<td>Keynote questions</td>
+<td> </td>
+</tr>
+<tr>
+<td>8:50</td>
+<td>Sesión 1 - Gloria Edith Rodriguez Ramirez </td>
+<td>R y Google para digital marketing</td>
+</tr>
+<tr>
+<td>9:20</td>
+<td>Sesión 1 - David Barquero Álvarez</td>
+<td>Gestión de consumo eléctrico en plantas de generación mediante R</td>
+</tr>
+<tr>
+<td>9:50</td>
+<td>Q&amp;A - Sesión 1</td>
+<td> </td>
+</tr>
+<tr>
+<td>10:00</td>
+<td>Pausa</td>
+<td> </td>
+</tr>
+<tr>
+<td>10:10</td>
+<td>Sesión 2 - Jhair Aldás</td>
+<td>R en procesos Lean Six Sigma para industrias de manufactura latinoamericanas </td>
+</tr>
+<tr>
+<td>10:40</td>
+<td>Sesión 2 - Gustavo Céspedes Ramírez</td>
+<td>Identificación de nombres de empresas en artículos de noticias: Aplicación de la técnica NER en lenguaje natural</td>
+</tr>
+<tr>
+<td>11:10</td>
+<td>Q&amp;A - Sesión 2</td>
+<td> </td>
+</tr>
+<tr>
+<td>11:20</td>
+<td>DataLatam</td>
+<td> </td>
+</tr>
+<tr>
+<td>12:00</td>
+<td>DataLatam</td>
+<td> </td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>CIERRE</td>
 <td> </td>
 </tr>
 </tbody></table>
