@@ -395,4 +395,9 @@ Andrea Sánchez-Tapia es bióloga, colombiana, y trabaja como investigadora post
 <td>Uso de R para elaborar y visualizar mapas de ligamiento genético, y mapeo de genes causales de una mutación en papaya</td>
 <td align="right">10</td>
 </tr>
+ <tr>
+<td>Valery Zúñiga Kondrashov</td>
+<td>Resumen de datos. ¡Rápido! ****Título por re-definir****</td>
+<td align="right">11</td>
+</tr>
 </tbody></table>
