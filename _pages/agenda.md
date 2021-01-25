@@ -65,7 +65,7 @@ author_profile: true
 </tr>
 <tr>
 <td>11:20</td>
-<td>Charlas relámpago</td>
+<td><a href="https://conectar2021.github.io/ConectaR2021/agenda/#p%C3%B3sters">Charlas relámpago</a></td>
 <td> </td>
 </tr>
 <tr>
