@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Jueves 28 de enero - Hora de Costa Rica (-6 GMT)
+## Jueves 28 de enero (-6 GMT)
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th  width="10%" title="Field #1">Hora</th>
@@ -80,7 +80,7 @@ author_profile: true
 </tr>
 </tbody></table>
 
-## Viernes 29 de enero - Hora de Costa Rica (-6 GMT)
+## Viernes 29 de enero (-6 GMT)
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th width="10%" title="Field #1">Hora</th>
@@ -154,7 +154,7 @@ author_profile: true
 </tr>
 </tbody></table>
 
-## Jueves 4 de febrero - Hora de Costa Rica (-6 GMT)
+## Jueves 4 de febrero (-6 GMT)
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th width="10%" title="Field #1">Hora</th>
@@ -228,7 +228,7 @@ author_profile: true
 </tr>
 </tbody></table>
 
-## Viernes 5 de febrero - Hora de Costa Rica (-6 GMT)
+## Viernes 5 de febrero (-6 GMT)
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th width="10%" title="Field #1">Hora</th>
