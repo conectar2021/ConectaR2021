@@ -390,4 +390,9 @@ Andrea Sánchez-Tapia es bióloga, colombiana, y trabaja como investigadora post
 <td>Generación de reportes automáticos Mongo DB+Streamlit+R</td>
 <td align="right">9</td>
 </tr>
+<tr>
+<td>Miguel Francisco Benavides Acevedo</td>
+<td>Uso de R para elaborar y visualizar mapas de ligamiento genético, y mapeo de genes causales de una mutación en papaya</td>
+<td align="right">9</td>
+</tr>
 </tbody></table>
