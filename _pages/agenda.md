@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-
-## Agenda 
-
 Hora de Costa Rica (-6 GMT)
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link type="text/css" rel="stylesheet" href="resources/sheet.css" >
