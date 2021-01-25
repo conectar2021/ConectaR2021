@@ -139,7 +139,7 @@ author_profile: true
 </tr>
 <tr>
 <td>11:20</td>
-<td>Comunidad de Desarrolladores de Software en Bioinformática (CDSB)</td>
+<td><a href="https://conectar2021.github.io/ConectaR2021/agenda/#comunidades">Presentación Comunidades</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -213,7 +213,7 @@ author_profile: true
 </tr>
 <tr>
 <td>11:20</td>
-<td>Rladies SJO</td>
+<td><a href="https://conectar2021.github.io/ConectaR2021/agenda/#comunidades">Presentación Comunidades</a></td>
 <td> </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ author_profile: true
 </tr>
 <tr>
 <td>11:20</td>
-<td>DataLatam</td>
+<td><a href="https://conectar2021.github.io/ConectaR2021/agenda/#comunidades">Presentación Comunidades</a></td>
 <td> </td>
 </tr>
 <tr>
