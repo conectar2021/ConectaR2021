@@ -20,7 +20,7 @@ author_profile: true
 </tr>
 <tr>
 <td>8:10</td>
-<td>Keynote - Paula Moraga</td>
+<td>Keynote - <a href="https://conectar2021.github.io/ConectaR2021/agenda/#keynotes">Paula Moraga</a></td>
 <td>Ciencia de datos geoespaciales para la vigilancia de la salud pública</td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ author_profile: true
 </tr>
 <tr>
 <td>8:10</td>
-<td>Keynote - Mauro Lepore</td>
+<td>Keynote - <a href="https://conectar2021.github.io/ConectaR2021/agenda/#keynotes">Mauro Lepore</a></td>
 <td>Cadena de favoRes</td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ author_profile: true
 </tr>
 <tr>
 <td>8:10</td>
-<td>Keynote - Andrea Sánchez-Tapia</td>
+<td>Keynote - <a href="https://conectar2021.github.io/ConectaR2021/agenda/#keynotes">Andrea Sánchez-Tapia</a></td>
 <td>Observatorio COVID19-BR</td>
 </tr>
 <tr>
@@ -242,7 +242,7 @@ author_profile: true
 </tr>
 <tr>
 <td>8:10</td>
-<td>Keynote - Florian Pestoni</td>
+<td>Keynote - <a href="https://conectar2021.github.io/ConectaR2021/agenda/#keynotes">Florian Pestoni</a></td>
 <td>EmprendeR: notas sobre el uso de R en la dirección de una empresa de robótica</td>
 </tr>
 <tr>
