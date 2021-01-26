@@ -310,62 +310,62 @@ author_profile: true
 <th width="10%" title="Field #3">Hora</th>
 </tr></thead>
 <tbody><tr>
-<td>Philippe Heymans Smith </td>
+<td><a href="https://twitter.com/pheymanss"> Philippe Heymans Smith </a></td>
 <td>chronicle: Reportería HTML sin fricción</td>
 <td align="right">11:24</td>
 </tr>
 <tr>
-<td>Eugenio Grant Mora</td>
+<td> href="https://twitter.com/eugeniogrant"> Eugenio Grant Mora </a></td>
 <td>Democratizando el uso de modelos de Machine Learning con Shiny</td>
 <td align="right">11:28</td>
 </tr>
 <tr>
-<td>Marta Cousido Rocha</td>
+<td>href="https://www.linkedin.com/in/marta-cousido-rocha-209382105/"> Marta Cousido Rocha </a></td>
 <td>A new R package for the analysis of the fisheries population under uncertainty </td>
 <td align="right">11:32</td>
 </tr>
 <tr>
-<td>Luis Barboza-Barquero</td>
+<td>href="https://www.linkedin.com/in/luis-barboza-barquero-534b381b3/"> Luis Barboza-Barquero </a></td>
 <td>Análisis y visualización de datos del fenotipo de las semillas y germinación de un set de accesiones de la colección mundial de frijol mediante Rstudio</td>
 <td align="right">11:36</td>
 </tr>
 <tr>
-<td>Agustin Nieto </td>
+<td>href="http://humanidades.com.ar/comunidadesv/ciclo-de-charlas-agustin-nieto/"> Agustin Nieto </a></td>
 <td>Humanidades digitales con R</td>
 <td align="right">11:40</td>
 </tr>
 <tr>
-<td>Maikol Solís Chacón  </td>
+<td>href="https://twitter.com/maikol_solis"> Maikol Solís Chacón </a></td>
 <td>Uso y experiencias de R-exams para Mediación Virtual en la UCR</td>
 <td align="right">11:44</td>
 </tr>
 <tr>
-<td>Eduardo Jimenez Gonzalez</td>
+<td>href="https://www.linkedin.com/in/eduardo-jim%C3%A9nez-gonz%C3%A1lez-%F0%9F%87%A8%F0%9F%87%B7-b6290b17/"> Eduardo Jimenez Gonzalez </a></td>
 <td>Ciudades Inteligentes</td>
 <td align="right">11:48</td>
 </tr>
 <tr>
-<td>Gustavo Céspedes Ramírez</td>
+<td>href="https://www.linkedin.com/in/gustavo-c%C3%A9spedes-066a9a159/"> Gustavo Céspedes Ramírez </a></td>
 <td>Búsqueda de jugadores con características de rendimiento similares en el fútbol centroamericano</td>
 <td align="right">11:52</td>
 </tr>
 <tr>
-<td>Jorge Mario Carrasco Ortiz</td>
+<td>href="https://www.linkedin.com/in/jorge-mario-carrasco-ortiz-7a707b59/"> Jorge Mario Carrasco Ortiz </a></td>
 <td>Generación de reportes automáticos Mongo DB+Streamlit+R</td>
 <td align="right">11:56</td>
 </tr>
 <tr>
-<td>Miguel Francisco Benavides Acevedo</td>
+<td>href="https://www.linkedin.com/in/miguel-francisco-benavides-acevedo-42303a1aa/"> Miguel Francisco Benavides Acevedo </a></td>
 <td>Uso de R para elaborar y visualizar mapas de ligamiento genético, y mapeo de genes causales de una mutación en papaya</td>
 <td align="right">12:00</td>
 </tr>
  <tr>
-<td>Valery Zúñiga Kondrashov</td>
+<td>href="https://twitter.com/telaroz"> Valery Zúñiga Kondrashov </a></td>
 <td>Estadísticas de grupo rápidas: Cómo sacar el máximo provecho del paquete data.table</td>
 <td align="right">12:04</td>
 </tr>
    <tr>
-<td>Leonardo Collado Torres</td>
+<td>href="https://twitter.com/lcolladotor"> Leonardo Collado Torres </a></td>
 <td>biocthis: crea paquetes de R/Bioconductor</td>
 <td align="right">12:08</td>
 </tr>
