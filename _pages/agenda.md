@@ -277,7 +277,7 @@ author_profile: true
 </tr>
 <tr>
 <td>10:40</td>
-<td>Sesión 2 - <a href="https://www.linkedin.com/in/gustavo-c%C3%A9spedes-066a9a159/">Gustavo Céspedes Ramírez</a></td>
+<td>Sesión 2 - <a href="https://twitter.com/Tavo_Cera">Gustavo Céspedes Ramírez</a></td>
 <td>Identificación de nombres de empresas en artículos de noticias: Aplicación de la técnica NER en lenguaje natural</td>
 </tr>
 <tr>
@@ -345,7 +345,7 @@ author_profile: true
 <td align="right">11:48</td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/in/gustavo-c%C3%A9spedes-066a9a159/"> Gustavo Céspedes Ramírez </a></td>
+<td><a href="https://twitter.com/Tavo_Cera"> Gustavo Céspedes Ramírez </a></td>
 <td>Búsqueda de jugadores con características de rendimiento similares en el fútbol centroamericano</td>
 <td align="right">11:52</td>
 </tr>
