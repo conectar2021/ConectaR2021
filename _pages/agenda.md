@@ -30,7 +30,7 @@ author_profile: true
 </tr>
 <tr>
 <td>8:50</td>
-<td>Sesion 1 - Erick Cuevas Fernández</td>
+<td>Sesion 1 - <a href="https://twitter.com/ErickCuevasF">Erick Cuevas Fernández</a></td>
 <td>SNPverso y demencia</td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ author_profile: true
 </tr>
 <tr>
 <td>10:10</td>
-<td>Sesión 2 - J. Antonio Guzmán Q.</td>
+<td>Sesión 2 - <a href="https://twitter.com/AntonioGuzman06"> J. Antonio Guzmán Q.</a></td>
 <td>rTLS: una herramienta en R para procesar y calcular métricas de nubes de puntos derivadas de sensores LiDAR terrestres.</td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ author_profile: true
 </tr>
 <tr>
 <td>10:40</td>
-<td>Sesión 2 - Ronny Alexander Hernández Mora</td>
+<td>Sesión 2 - <a href="https://twitter.com/RonnyHdezM">Ronny Alexander Hernández Mora</a></td>
 <td>Lo que no enseñan en cursos de ciencia de datos: Una interpretación práctica de DataOps.</td>
 </tr>
 <tr>
