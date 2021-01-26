@@ -35,7 +35,7 @@ author_profile: true
 </tr>
 <tr>
 <td>9:20</td>
-<td>Sesion 1 - Angélica Arenas Rodríguez</td>
+<td>Sesion 1 - <a href="https://orcid.org/0000-0002-1823-2163">Angélica Arenas Rodríguez</a></td>
 <td>R para conocer sobre biodiversidad desde GBIF.</td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ author_profile: true
 </tr>
 <tr>
 <td>10:40</td>
-<td>Sesión 2 - Angie Viviana Montañez Salinas</td>
+<td>Sesión 2 - <a href="https://www.linkedin.com/in/angie-viviana-monta%C3%B1ez-salinas-a86698155/">Angie Viviana Montañez Salinas</a></td>
 <td>EnRedándonos con datos atípicos en análisis ecológicos </td>
 </tr>
 <tr>
@@ -104,12 +104,12 @@ author_profile: true
 </tr>
 <tr>
 <td>8:50</td>
-<td>Sesion 1 - Cristina Soto Rojas; Mariana Cubero Corella; Carlos Gamboa-Venegas</td>
+<td>Sesion 1 - <a href="https://cnca.cenat.ac.cr/es/">Cristina Soto Rojas; Mariana Cubero Corella; Carlos Gamboa-Venegas</a></td>
 <td>Ya sabe programar en R, ¿y enseñarlo?</td>
 </tr>
 <tr>
 <td>9:20</td>
-<td>Sesion 1 - Esteban Jose Ballestero Alfaro</td>
+<td>Sesion 1 - <a href="https://www.tec.ac.cr/esteban-ballesteroEsteban"> Jose Ballestero Alfaro</a></td>
 <td>Incorporando R como herramienta de análisis de datos en el curso de Estadística para estudiantes de Computación</td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ author_profile: true
 </tr>
 <tr>
 <td>10:10</td>
-<td>Sesión 2 - Estephani Jusep Rivera Jaramillo</td>
+<td>Sesión 2 - <a href="https://twitter.com/juseprivera">Estephani Jusep Rivera Jaramillo</a></td>
 <td>Análisis de Sentimientos con Rstudio</td>
 </tr>
 <tr>
@@ -178,12 +178,12 @@ author_profile: true
 </tr>
 <tr>
 <td>8:50</td>
-<td>Sesión 1 - Allan Martínez M.</td>
+<td>Sesión 1 - <a href="https://twitter.com/allanz300">Allan Martínez M.</a></td>
 <td>Geovisor del Sistema Nacional de Información Ambiental</td>
 </tr>
 <tr>
 <td>9:20</td>
-<td>Sesión 1 -Juan Alejandro Herrera López</td>
+<td>Sesión 1 - <a href="https://www.linkedin.com/in/alejandro-herreracr/"> Juan Alejandro Herrera López</a></td>
 <td>Uso de R para fiscalización de compras públicas</td>
 </tr>
 <tr>
@@ -198,12 +198,12 @@ author_profile: true
 </tr>
 <tr>
 <td>10:10</td>
-<td>Sesión 2 - Roberto Delgado Castro</td>
+<td>Sesión 2 - <a href="https://twitter.com/robdelcasCR"> Roberto Delgado Castro</a></td>
 <td>Ciencia de datos aplicada a la gestión de control de las contribuciones sociales en la lucha contra la pobreza en Costa Rica</td>
 </tr>
 <tr>
 <td>10:40</td>
-<td>Sesión 2 - Mauricio Vargas</td>
+<td>Sesión 2 - <a href="https://twitter.com/pachamaltese">Mauricio Vargas</a></td>
 <td>Dittodb: un entorno de prueba para consultas a bases de datos </td>
 </tr>
 <tr>
@@ -252,12 +252,12 @@ author_profile: true
 </tr>
 <tr>
 <td>8:50</td>
-<td>Sesión 1 - Gloria Edith Rodriguez Ramirez </td>
+<td>Sesión 1 - <a href="https://www.linkedin.com/in/gloria-edith-rodr%C3%ADguez-ram%C3%ADrez-674ab6158/">Gloria Edith Rodriguez Ramirez </a></td>
 <td>R y Google para digital marketing</td>
 </tr>
 <tr>
 <td>9:20</td>
-<td>Sesión 1 - David Barquero Álvarez</td>
+<td>Sesión 1 - <a href="">David Barquero Álvarez</a></td>
 <td>Gestión de consumo eléctrico en plantas de generación mediante R</td>
 </tr>
 <tr>
@@ -272,12 +272,12 @@ author_profile: true
 </tr>
 <tr>
 <td>10:10</td>
-<td>Sesión 2 - Jhair Aldás</td>
+<td>Sesión 2 - <a href="https://www.linkedin.com/in/job-jh/">Jhair Aldás</a></td>
 <td>R en procesos Lean Six Sigma para industrias de manufactura latinoamericanas </td>
 </tr>
 <tr>
 <td>10:40</td>
-<td>Sesión 2 - Gustavo Céspedes Ramírez</td>
+<td>Sesión 2 - <a href="https://www.linkedin.com/in/gustavo-c%C3%A9spedes-066a9a159/">Gustavo Céspedes Ramírez</a></td>
 <td>Identificación de nombres de empresas en artículos de noticias: Aplicación de la técnica NER en lenguaje natural</td>
 </tr>
 <tr>
