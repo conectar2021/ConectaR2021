@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-El comité organizador de ConectaR2021 está integrado por las siguientes personas. 
+El comité organizador de ConectaR2021 está integrado por las siguientes personas: 
 
 <p><img src="/ConectaR2021/assets/images/opcion_1.png" alt="" /></p>
 
@@ -22,4 +22,12 @@ Marcela Alfaro Córdoba es profesora de estadística en la Universidad de Costa 
 
 Frans van Dunné es CDO de ixpantia con más de 15 años de experiencia en datos. Frans ha colaborado con múltiples empresas en definición de estrategia y productos de datos. Como parte de estos procesos ha trabajado en modelado de procesos, minería de datos, y gestión de datos con organizaciones alrededor del mundo. Frans se formó como biólogo, tiene un PhD de la Universidad de Amsterdam y ha enseñado estadística y modelado en universidades. 
 
- 
+ El equipo de apoyo está integrado por las siguientes personas:
+
+* Alfonso Rojas [@alf10087](https://twitter.com/alf10087)
+* Olga Marta Ramírez
+* Yuliana Soto 
+
+Contamos con un grupo de estudiantes que nos acompañaron en la realización del evento:
+
+Fiorella Corella Rojas, Johan Murillo Alvarado, Oscar Araya Rojas, Aldo Chinchilla Campos, Fernando Céspedes Zamora, María Camila Aguilar Gómez, Kendal Leandro Sandí, Luis Carlos Robles Azofeifa, Alexander Coronado Carmona, María Fernanda Picado Madrigal, María Fernanda Gutiérrez Salas, Isaí Ottoniel Ugalde Araya, Jairo Rodríguez Granados, Estefany Ramírez Murillo, Andrea Vargas, Daniely Hernández, Paula Rodríguez, Mariana Cubero, Sofía Marín, Nicole Gamboa, Amanda Solís  Navarro, Andrés Sánchez, Enrique Alvarado.
