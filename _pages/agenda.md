@@ -242,7 +242,7 @@ author_profile: true
 </tr>
 <tr>
 <td>8:10</td>
-<td>Keynote - <a href="https://twitter.com/florianpestoni">Florian Pestoni</a></td>
+<td>Keynote - <a href="https://www.linkedin.com/in/florianpestoni/">Florian Pestoni</a></td>
 <td><a href="https://conectar2021.github.io/Contenido2021/#emprender-notas-sobre-el-uso-de-r-en-la-direcci%C3%B3n-de-una-empresa-de-rob%C3%B3tica---florian-pestoni">EmprendeR: notas sobre el uso de R en la dirección de una empresa de robótica</a></td>
 </tr>
 <tr>
