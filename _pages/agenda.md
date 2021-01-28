@@ -50,12 +50,12 @@ author_profile: true
 <tr>
 <td>10:10</td>
 <td>Sesión 2 - <a href="https://twitter.com/AntonioGuzman06"> J. Antonio Guzmán Q.</a></td>
-<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-1-sesi%C3%B3n-1">rTLS: una herramienta en R para procesar y calcular métricas de nubes de puntos derivadas de sensores LiDAR terrestres</a></td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-1-sesi%C3%B3n-2">rTLS: una herramienta en R para procesar y calcular métricas de nubes de puntos derivadas de sensores LiDAR terrestres</a></td>
 </tr>
 <tr>
 <td>10:40</td>
 <td>Sesión 2 - <a href="https://www.linkedin.com/in/angie-viviana-monta%C3%B1ez-salinas-a86698155/">Angie Viviana Montañez Salinas</a></td>
-<td>EnRedándonos con datos atípicos en análisis ecológicos </td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-1-sesi%C3%B3n-2">EnRedándonos con datos atípicos en análisis ecológicos</a></td>
 </tr>
 <tr>
 <td>11:10</td>
