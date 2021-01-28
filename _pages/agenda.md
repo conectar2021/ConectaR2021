@@ -302,7 +302,7 @@ author_profile: true
 </tr>
 </tbody></table>
 
-## Pósters
+## Charlas Relámpago
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th width="40%" title="Field #1">Nombre</th>
