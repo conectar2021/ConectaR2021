@@ -50,7 +50,7 @@ author_profile: true
 <tr>
 <td>10:10</td>
 <td>Sesión 2 - <a href="https://twitter.com/AntonioGuzman06"> J. Antonio Guzmán Q.</a></td>
-<td>rTLS: una herramienta en R para procesar y calcular métricas de nubes de puntos derivadas de sensores LiDAR terrestres.</td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-1-sesi%C3%B3n-1">rTLS: una herramienta en R para procesar y calcular métricas de nubes de puntos derivadas de sensores LiDAR terrestres</a></td>
 </tr>
 <tr>
 <td>10:40</td>
