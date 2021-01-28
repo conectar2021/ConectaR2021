@@ -32,6 +32,7 @@ author_profile: true
 <td>8:50</td>
 <td>Sesion 1 - <a href="https://twitter.com/ErickCuevasF">Erick Cuevas Fernández</a></td>
 <td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-1-sesi%C3%B3n-1">SNPverso y demencia</a></td>
+</tr>
 <tr>
 <td>9:20</td>
 <td>Sesion 1 - <a href="https://orcid.org/0000-0002-1823-2163">Angélica Arenas Rodríguez</a></td>
