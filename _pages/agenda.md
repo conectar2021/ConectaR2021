@@ -339,8 +339,8 @@ author_profile: true
 <td align="right">11:44</td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/in/eduardo-jim%C3%A9nez-gonz%C3%A1lez-%F0%9F%87%A8%F0%9F%87%B7-b6290b17/"> Eduardo Jimenez Gonzalez </a></td>
-<td>Ciudades Inteligentes</td>
+<td>Eduardo Jimenez Gonzalez </td>
+<td>Ciudades Inteligente * RETIRADO * </td>
 <td align="right">11:48</td>
 </tr>
 <tr>
