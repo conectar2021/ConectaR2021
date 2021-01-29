@@ -130,7 +130,7 @@ author_profile: true
 <tr>
 <td>10:40</td>
 <td>Sesión 2 - <a href="https://twitter.com/RonnyHdezM">Ronny Alexander Hernández Mora</a></td>
-<td>Lo que no enseñan en cursos de ciencia de datos: Una interpretación práctica de DataOps.</td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-2-sesi%C3%B3n-2">Lo que no enseñan en cursos de ciencia de datos: Una interpretación práctica de DataOps</a></td>
 </tr>
 <tr>
 <td>11:00</td>
