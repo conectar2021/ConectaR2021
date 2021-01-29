@@ -39,7 +39,7 @@ author_profile: true
 <td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-1-sesi%C3%B3n-1">R para conocer sobre biodiversidad desde GBIF</a></td>
 </tr>
 <tr>
-<td>9:50</td>
+<td>9:40</td>
 <td>Q&amp;A - Sesión 1</td>
 <td> </td>
 </tr>
@@ -59,7 +59,7 @@ author_profile: true
 <td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-1-sesi%C3%B3n-2">EnRedándonos con datos atípicos en análisis ecológicos</a></td>
 </tr>
 <tr>
-<td>11:10</td>
+<td>11:00</td>
 <td>Q&amp;A - Sesión 2</td>
 <td> </td>
 </tr>
@@ -113,7 +113,7 @@ author_profile: true
 <td>Incorporando R como herramienta de análisis de datos en el curso de Estadística para estudiantes de Computación</td>
 </tr>
 <tr>
-<td>9:50</td>
+<td>9:40</td>
 <td>Q&amp;A - Sesión 1</td>
 <td> </td>
 </tr>
@@ -133,7 +133,7 @@ author_profile: true
 <td>Lo que no enseñan en cursos de ciencia de datos: Una interpretación práctica de DataOps.</td>
 </tr>
 <tr>
-<td>11:10</td>
+<td>11:00</td>
 <td>Q&amp;A - Sesión 2</td>
 <td> </td>
 </tr>
@@ -187,7 +187,7 @@ author_profile: true
 <td>Uso de R para fiscalización de compras públicas</td>
 </tr>
 <tr>
-<td>9:50</td>
+<td>9:40</td>
 <td>Q&amp;A - Sesión 1</td>
 <td> </td>
 </tr>
@@ -207,7 +207,7 @@ author_profile: true
 <td>Dittodb: un entorno de prueba para consultas a bases de datos </td>
 </tr>
 <tr>
-<td>11:10</td>
+<td>11:00</td>
 <td>Q&amp;A - Sesión 2</td>
 <td> </td>
 </tr>
@@ -261,7 +261,7 @@ author_profile: true
 <td>Gestión de consumo eléctrico en plantas de generación mediante R</td>
 </tr>
 <tr>
-<td>9:50</td>
+<td>9:40</td>
 <td>Q&amp;A - Sesión 1</td>
 <td> </td>
 </tr>
@@ -281,7 +281,7 @@ author_profile: true
 <td>Identificación de nombres de empresas en artículos de noticias: Aplicación de la técnica NER en lenguaje natural</td>
 </tr>
 <tr>
-<td>11:10</td>
+<td>11:00</td>
 <td>Q&amp;A - Sesión 2</td>
 <td> </td>
 </tr>
