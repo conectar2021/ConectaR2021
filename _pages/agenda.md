@@ -148,7 +148,7 @@ author_profile: true
 <td> </td>
 </tr>
 <tr>
-<td>14:00</td>
+<td>13:00</td>
 <td>Cierre del día</td>
 <td> </td>
 </tr>
@@ -222,7 +222,7 @@ author_profile: true
 <td> </td>
 </tr>
 <tr>
-<td>14:00</td>
+<td>13:00</td>
 <td>Cierre del día</td>
 <td> </td>
 </tr>
@@ -296,7 +296,7 @@ author_profile: true
 <td> </td>
 </tr>
 <tr>
-<td>14:00</td>
+<td>13:00</td>
 <td>CIERRE</td>
 <td> </td>
 </tr>
