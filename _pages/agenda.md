@@ -125,7 +125,7 @@ author_profile: true
 <tr>
 <td>10:10</td>
 <td>Sesión 2 - <a href="https://twitter.com/juseprivera">Estephani Jusep Rivera Jaramillo</a></td>
-<td>Análisis de Sentimientos con Rstudio</td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-2-sesi%C3%B3n-2">Análisis de Sentimientos con Rstudio</a></td>
 </tr>
 <tr>
 <td>10:40</td>
