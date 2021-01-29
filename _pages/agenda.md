@@ -105,12 +105,12 @@ author_profile: true
 <tr>
 <td>8:50</td>
 <td>Sesion 1 - <a href="https://cnca.cenat.ac.cr/es/">Cristina Soto Rojas; Mariana Cubero Corella; Carlos Gamboa-Venegas</a></td>
-<td>Ya sabe programar en R, ¿y enseñarlo?</td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-2-sesi%C3%B3n-1">Ya sabe programar en R, ¿y enseñarlo?</a></td>
 </tr>
 <tr>
 <td>9:20</td>
 <td>Sesion 1 - <a href="https://www.tec.ac.cr/esteban-ballesteroEsteban"> Jose Ballestero Alfaro</a></td>
-<td>Incorporando R como herramienta de análisis de datos en el curso de Estadística para estudiantes de Computación</td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-2-sesi%C3%B3n-1">Incorporando R como herramienta de análisis de datos en el curso de Estadística para estudiantes de Computación</a></td>
 </tr>
 <tr>
 <td>9:40</td>
