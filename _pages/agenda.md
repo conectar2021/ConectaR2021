@@ -179,12 +179,12 @@ author_profile: true
 <tr>
 <td>8:50</td>
 <td>Sesión 1 - <a href="https://twitter.com/allanz300">Allan Martínez M.</a></td>
-<td>Geovisor del Sistema Nacional de Información Ambiental</td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-3-sesi%C3%B3n-1">Geovisor del Sistema Nacional de Información Ambiental</a></td>
 </tr>
 <tr>
 <td>9:20</td>
 <td>Sesión 1 - <a href="https://www.linkedin.com/in/alejandro-herreracr/"> Juan Alejandro Herrera López</a></td>
-<td>Uso de R para fiscalización de compras públicas</td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-3-sesi%C3%B3n-1">Uso de R para fiscalización de compras públicas</a></td>
 </tr>
 <tr>
 <td>9:40</td>
@@ -199,12 +199,12 @@ author_profile: true
 <tr>
 <td>10:10</td>
 <td>Sesión 2 - <a href="https://twitter.com/robdelcasCR"> Roberto Delgado Castro</a></td>
-<td>Ciencia de datos aplicada a la gestión de control de las contribuciones sociales en la lucha contra la pobreza en Costa Rica</td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-3-sesi%C3%B3n-2">Ciencia de datos aplicada a la gestión de control de las contribuciones sociales en la lucha contra la pobreza en Costa Rica</a></td>
 </tr>
 <tr>
 <td>10:40</td>
 <td>Sesión 2 - <a href="https://twitter.com/pachamaltese">Mauricio Vargas</a></td>
-<td>Dittodb: un entorno de prueba para consultas a bases de datos </td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-3-sesi%C3%B3n-2">Dittodb: un entorno de prueba para consultas a bases de datos </a></td>
 </tr>
 <tr>
 <td>11:00</td>
@@ -253,12 +253,12 @@ author_profile: true
 <tr>
 <td>8:50</td>
 <td>Sesión 1 - <a href="https://www.linkedin.com/in/gloria-edith-rodr%C3%ADguez-ram%C3%ADrez-674ab6158/">Gloria Edith Rodriguez Ramirez </a></td>
-<td>R y Google para digital marketing</td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-4-sesi%C3%B3n-1">R y Google para digital marketing</a></td>
 </tr>
 <tr>
 <td>9:20</td>
 <td>Sesión 1 - <a href="">David Barquero Álvarez</a></td>
-<td>Gestión de consumo eléctrico en plantas de generación mediante R</td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-4-sesi%C3%B3n-1">Gestión de consumo eléctrico en plantas de generación mediante R</a></td>
 </tr>
 <tr>
 <td>9:40</td>
@@ -273,12 +273,12 @@ author_profile: true
 <tr>
 <td>10:10</td>
 <td>Sesión 2 - <a href="https://www.linkedin.com/in/job-jh/">Jhair Aldás</a></td>
-<td>R en procesos Lean Six Sigma para industrias de manufactura latinoamericanas </td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-4-sesi%C3%B3n-2">R en procesos Lean Six Sigma para industrias de manufactura latinoamericanas </a></td>
 </tr>
 <tr>
 <td>10:40</td>
 <td>Sesión 2 - <a href="https://twitter.com/Tavo_Cera">Gustavo Céspedes Ramírez</a></td>
-<td>Identificación de nombres de empresas en artículos de noticias: Aplicación de la técnica NER en lenguaje natural</td>
+<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-4-sesi%C3%B3n-2">Identificación de nombres de empresas en artículos de noticias: Aplicación de la técnica NER en lenguaje natural</a></td>
 </tr>
 <tr>
 <td>11:00</td>
