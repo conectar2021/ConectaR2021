@@ -222,6 +222,11 @@ author_profile: true
 <td> </td>
 </tr>
 <tr>
+<td>12:30</td>
+<td> Información acerca del Concurso del Centro Nacional de Información Geoambiental, Costa Rica </td>
+<td> </td>
+</tr>
+<tr>
 <td>13:00</td>
 <td>Cierre del día</td>
 <td> </td>
