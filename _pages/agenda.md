@@ -258,7 +258,7 @@ author_profile: true
 <tr>
 <td>8:50</td>
 <td>Sesión 1 - <a href="https://www.linkedin.com/in/gloria-edith-rodr%C3%ADguez-ram%C3%ADrez-674ab6158/">Gloria Edith Rodriguez Ramirez </a></td>
-<td><a href="https://conectar2021.github.io/Contenido2021/#d%C3%ADa-4-sesi%C3%B3n-1">R y Google para digital marketing</a></td>
+<td> R y Google para digital marketing </td>
 </tr>
 <tr>
 <td>9:20</td>
